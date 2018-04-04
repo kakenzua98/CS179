@@ -1,0 +1,325 @@
+
+
+.screen21 {
+  width               : 100%;
+  min-width           : 375px;
+  height              : 100vh;
+  min-height          : 667px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  background          : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.screen21 .profile {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 74px;
+  height              : 60px;
+  width               : 63px;
+  position            : absolute;
+  margin              : 0;
+  left                : 155px;
+}
+.screen21 .profile .shape {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 35px;
+  width               : 36px;
+  position            : absolute;
+  margin              : 0;
+  left                : 14px;
+}
+.screen21 .profile .shape1 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 34px;
+  height              : 26px;
+  width               : 63px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.screen21 .bella {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 152px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 162px;
+  font-family         : "San Francisco", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(18, 108, 113, 1.0);
+  text-align          : justify;
+  line-height         : 24.0px;
+}
+.screen21 .polygon {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 579px;
+  height              : 37px;
+  width               : 39px;
+  position            : absolute;
+  margin              : 0;
+  left                : 37px;
+}
+.screen21 .polygon1 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 579px;
+  height              : 37px;
+  width               : 39px;
+  position            : absolute;
+  margin              : 0;
+  left                : 164px;
+}
+.screen21 .polygon2 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 579px;
+  height              : 37px;
+  width               : 39px;
+  position            : absolute;
+  margin              : 0;
+  left                : 292px;
+}
+.screen21 .friends {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 633px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 33px;
+  font-family         : "San Francisco", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(18, 108, 113, 1.0);
+  text-align          : justify;
+  line-height         : 16.0px;
+}
+.screen21 .white-list {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 633px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 151px;
+  font-family         : "San Francisco", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(18, 108, 113, 1.0);
+  text-align          : justify;
+  line-height         : 16.0px;
+}
+.screen21 .redeem-rewards {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 626px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 285px;
+  font-family         : "San Francisco", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(18, 108, 113, 1.0);
+  text-align          : justify;
+  line-height         : 16.0px;
+}
+.screen21 .cells-button-cell {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 372px;
+  height              : 44px;
+  width               : 244px;
+  position            : absolute;
+  margin              : 0;
+  left                : 65px;
+}
+.screen21 .cells-button-cell .cell {
+  background          : rgba(232, 245, 246, 1.0);
+  top                 : 0px;
+  height              : 44px;
+  width               : 244px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.screen21 .cells-button-cell .label {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 15px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 33px;
+  font-family         : "San Francisco", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(19, 107, 113, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.34px;
+  line-height         : 16.0px;
+}
+.screen21 .cells-button-cell2 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 461px;
+  height              : 44px;
+  width               : 244px;
+  position            : absolute;
+  margin              : 0;
+  left                : 65px;
+}
+.screen21 .cells-button-cell2 .cell1 {
+  background          : rgba(232, 245, 246, 1.0);
+  top                 : 0px;
+  height              : 44px;
+  width               : 244px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.screen21 .cells-button-cell2 .label1 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 15px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 69px;
+  font-family         : "San Francisco", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(19, 107, 113, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.34px;
+  line-height         : 16.0px;
+}
+.screen21 .total-time-meal-num {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 193px;
+  height              : auto;
+  width               : 113px;
+  position            : absolute;
+  margin              : 0;
+  left                : 76px;
+  font-family         : "San Francisco", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(18, 108, 113, 1.0);
+  text-align          : left;
+  line-height         : 29.0px;
+}
+.screen21 .a1019-minutes15970 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 193px;
+  height              : auto;
+  width               : 113px;
+  position            : absolute;
+  margin              : 0;
+  left                : 185px;
+  font-family         : "San Francisco", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(18, 108, 113, 1.0);
+  text-align          : right;
+  line-height         : 29.0px;
+}
+.screen21 .notification {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 283px;
+  height              : 187px;
+  width               : 260px;
+  position            : absolute;
+  margin              : 0;
+  left                : 97px;
+}
+.screen21 .if-you-are-in-a-rest {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 297px;
+  height              : auto;
+  width               : 224px;
+  position            : absolute;
+  margin              : 0;
+  left                : 116px;
+  font-family         : "San Francisco", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.34px;
+  line-height         : 16.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
