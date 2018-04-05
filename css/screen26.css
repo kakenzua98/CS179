@@ -16,50 +16,7 @@ a {
 div {
   -webkit-text-size-adjust: none;
 }
-.screen26 .rectangle2 {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 0px;
-  height              : 667px;
-  width               : 375px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  border-radius       : 8px;
-}
-.screen26 .cells-button-cell2 {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 513px;
-  height              : 44px;
-  width               : 244px;
-  position            : absolute;
-  margin              : 0;
-  left                : 66px;
-}
-.screen26 .cells-button-cell2 .cell {
-  background          : rgba(232, 245, 246, 1.0);
-  top                 : 0px;
-  height              : 44px;
-  width               : 244px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-}
-.screen26 .cells-button-cell2 .label {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 15px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 76px;
-  font-family         : "San Francisco", Helvetica, Arial, serif;
-  font-size           : 14.0px;
-  color               : rgba(19, 107, 113, 1.0);
-  text-align          : center;
-  letter-spacing      : -0.34px;
-  line-height         : 16.0px;
-}
-.screen26 .phone-usage-of-this {
+.screen26 .my-meal-time-record {
   background          : rgba(255, 255, 255, 0.0);
   top                 : 42px;
   height              : auto;
@@ -67,11 +24,126 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 81px;
-  font-family         : "Futura-Medium", Helvetica, Arial, serif;
+  font-family         : "San Francisco", Helvetica, Arial, serif;
   font-size           : 20.0px;
   color               : rgba(18, 108, 113, 1.0);
   text-align          : justify;
-  line-height         : 27.0px;
+  line-height         : 24.0px;
+}
+.screen26 .oval2 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 618px;
+  height              : 9px;
+  width               : 10px;
+  position            : absolute;
+  margin              : 0;
+  left                : 190px;
+}
+.screen26 .circle-record {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 154px;
+  height              : 301px;
+  width               : 375px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2px;
+}
+.screen26 .circle-record .a3061-hours {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 96px;
+  height              : auto;
+  width               : 128px;
+  position            : absolute;
+  margin              : 0;
+  left                : 50px;
+  font-family         : "San Francisco", Helvetica, Arial, serif;
+  font-size           : 11.0px;
+  color               : rgba(18, 108, 113, 1.0);
+  text-align          : center;
+  line-height         : 10.0px;
+}
+.screen26 .circle-record .a4693-hours {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 151px;
+  height              : auto;
+  width               : 128px;
+  position            : absolute;
+  margin              : 0;
+  left                : 200px;
+  font-family         : "San Francisco", Helvetica, Arial, serif;
+  font-size           : 11.0px;
+  color               : rgba(137, 30, 30, 1.0);
+  text-align          : center;
+  line-height         : 10.0px;
+}
+.screen26 .circle-record .a2041-hours {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 230px;
+  height              : auto;
+  width               : 128px;
+  position            : absolute;
+  margin              : 0;
+  left                : 102px;
+  font-family         : "San Francisco", Helvetica, Arial, serif;
+  font-size           : 11.0px;
+  color               : rgba(159, 125, 52, 1.0);
+  text-align          : center;
+  line-height         : 10.0px;
+}
+.screen26 .circle-record .a408-hours {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 190px;
+  height              : auto;
+  width               : 128px;
+  position            : absolute;
+  margin              : 0;
+  left                : 57px;
+  font-family         : "San Francisco", Helvetica, Arial, serif;
+  font-size           : 11.0px;
+  color               : rgba(30, 166, 24, 1.0);
+  text-align          : center;
+  line-height         : 10.0px;
+}
+.screen26 .circle-record .a58-meals203-hours {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 135px;
+  height              : auto;
+  width               : 377px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  font-family         : "San Francisco", Helvetica, Arial, serif;
+  font-size           : 11.0px;
+  color               : rgba(18, 108, 113, 1.0);
+  text-align          : center;
+  line-height         : 18.0px;
+}
+.screen26 .circle-record .a1 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 301px;
+  width               : 299px;
+  position            : absolute;
+  margin              : 0;
+  left                : 38px;
+}
+.screen26 .group {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 618px;
+  height              : 9px;
+  width               : 10px;
+  position            : absolute;
+  margin              : 0;
+  left                : 175px;
+}
+.screen26 .group .oval21 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 9px;
+  width               : 10px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
 }
 .screen26 .back {
   background          : rgba(255, 255, 255, 0.0);
@@ -92,93 +164,92 @@ div {
   left                : 0px;
   opacity             : 0.64;
 }
-.screen26 .circle-record {
+.screen26 .in-the-last-month-y {
   background          : rgba(255, 255, 255, 0.0);
-  top                 : 154px;
-  height              : 301px;
+  top                 : 497px;
+  height              : auto;
+  width               : 301px;
+  position            : absolute;
+  margin              : 0;
+  left                : 38px;
+  font-family         : "San Francisco", Helvetica, Arial, serif;
+  font-size           : 11.0px;
+  color               : rgba(18, 108, 113, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.screen26 .rectangle2 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 667px;
   width               : 375px;
   position            : absolute;
   margin              : 0;
   left                : 0px;
+  border-radius       : 8px;
 }
-.screen26 .circle-record .a1 {
+.screen26 .time-frame-toggle {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 88px;
+  height              : 46px;
+  width               : 124px;
+  position            : absolute;
+  margin              : 0;
+  left                : 19px;
+}
+.screen26 .time-frame-toggle .selects {
   background          : rgba(255, 255, 255, 0.0);
   top                 : 0px;
-  height              : 301px;
-  width               : 299px;
-  position            : absolute;
+  height              : 42px;
+  width               : 120px;
+  position            : relative;
   margin              : 0;
-  left                : 38px;
+  left                : 2px;
 }
-.screen26 .circle-record .a61-minutes {
+.screen26 .time-frame-toggle .selects .default {
   background          : rgba(255, 255, 255, 0.0);
-  top                 : 135px;
-  height              : auto;
-  width               : 377px;
-  position            : absolute;
+  top                 : 0px;
+  height              : 42px;
+  width               : 120px;
+  position            : relative;
   margin              : 0;
-  left                : -1px;
-  font-family         : "Futura-Medium", Helvetica, Arial, serif;
-  font-size           : 11.0px;
-  color               : rgba(18, 108, 113, 1.0);
-  text-align          : center;
-  line-height         : 18.0px;
+  left                : 0px;
 }
-.screen26 .circle-record .a3018-minutes {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 96px;
-  height              : auto;
-  width               : 128px;
+.screen26 .time-frame-toggle .selects .default .background {
+  background          : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 120px;
   position            : absolute;
   margin              : 0;
-  left                : 50px;
-  font-family         : "Futura-Medium", Helvetica, Arial, serif;
-  font-size           : 11.0px;
-  color               : rgba(18, 108, 113, 1.0);
-  text-align          : center;
-  line-height         : 14.0px;
+  left                : 0px;
+  border-radius       : 5px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(224, 230, 238, 1.0);
 }
-.screen26 .circle-record .a4625-minutes {
+.screen26 .time-frame-toggle .selects .default .year {
   background          : rgba(255, 255, 255, 0.0);
-  top                 : 151px;
+  top                 : 12px;
   height              : auto;
-  width               : 128px;
+  width               : auto;
   position            : absolute;
   margin              : 0;
-  left                : 200px;
+  left                : 18px;
   font-family         : "Futura-Medium", Helvetica, Arial, serif;
-  font-size           : 11.0px;
-  color               : rgba(137, 30, 30, 1.0);
-  text-align          : center;
-  line-height         : 14.0px;
+  font-size           : 14.0px;
+  color               : rgba(68, 87, 112, 1.0);
+  text-align          : justify;
+  line-height         : 19.0px;
 }
-.screen26 .circle-record .a2010-minutes {
+.screen26 .time-frame-toggle .selects .default .arrow {
   background          : rgba(255, 255, 255, 0.0);
-  top                 : 230px;
-  height              : auto;
-  width               : 128px;
+  top                 : 18px;
+  height              : 7px;
+  width               : 10px;
   position            : absolute;
   margin              : 0;
-  left                : 102px;
-  font-family         : "Futura-Medium", Helvetica, Arial, serif;
-  font-size           : 11.0px;
-  color               : rgba(159, 125, 52, 1.0);
-  text-align          : center;
-  line-height         : 14.0px;
-}
-.screen26 .circle-record .a43-minutes {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 190px;
-  height              : auto;
-  width               : 128px;
-  position            : absolute;
-  margin              : 0;
-  left                : 57px;
-  font-family         : "Futura-Medium", Helvetica, Arial, serif;
-  font-size           : 11.0px;
-  color               : rgba(30, 166, 24, 1.0);
-  text-align          : center;
-  line-height         : 14.0px;
+  left                : 97px;
 }
 /* .anima-animate-appear prefix for appear animations */
 .anima-animate-appear {

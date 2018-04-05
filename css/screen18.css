@@ -16,115 +16,55 @@ a {
 div {
   -webkit-text-size-adjust: none;
 }
-.screen18 .avatar {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 80px;
-  height              : 50px;
-  width               : 50px;
-  position            : absolute;
-  margin              : 0;
-  left                : 57px;
-}
-.screen18 .avatar1 {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 152px;
-  height              : 51px;
-  width               : 50px;
-  position            : absolute;
-  margin              : 0;
-  left                : 57px;
-}
-.screen18 .avatar2 {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 225px;
-  height              : 50px;
-  width               : 50px;
-  position            : absolute;
-  margin              : 0;
-  left                : 57px;
-}
-.screen18 .avatar3 {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 297px;
-  height              : 50px;
-  width               : 50px;
-  position            : absolute;
-  margin              : 0;
-  left                : 57px;
-}
-.screen18 .avatar4 {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 369px;
-  height              : 50px;
-  width               : 50px;
-  position            : absolute;
-  margin              : 0;
-  left                : 57px;
-}
-.screen18 .avatar5 {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 441px;
-  height              : 50px;
-  width               : 50px;
-  position            : absolute;
-  margin              : 0;
-  left                : 57px;
-}
-.screen18 .avatar6 {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 511px;
-  height              : 50px;
-  width               : 50px;
-  position            : absolute;
-  margin              : 0;
-  left                : 57px;
-}
-.screen18 .elisa-jack-tom-emma {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 95px;
-  height              : auto;
-  width               : 121px;
-  position            : absolute;
-  margin              : 0;
-  left                : 129px;
-  font-family         : "San Francisco", Helvetica, Arial, serif;
-  font-size           : 11.0px;
-  color               : rgba(18, 108, 113, 1.0);
-  text-align          : left;
-  line-height         : 14.65px;
-}
-.screen18 .a3-meals-together3-m {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 94px;
-  height              : auto;
-  width               : 121px;
-  position            : absolute;
-  margin              : 0;
-  left                : 172px;
-  font-family         : "Futura-Medium", Helvetica, Arial, serif;
-  font-size           : 11.0px;
-  color               : rgba(18, 108, 113, 1.0);
-  text-align          : right;
-  line-height         : 14.65px;
-}
-.screen18 .rectangle2 {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 0px;
-  height              : 667px;
-  width               : 375px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  border-radius       : 8px;
-}
-.screen18 .friends {
+.screen18 .white-list {
   background          : rgba(255, 255, 255, 0.0);
   top                 : 42px;
   height              : auto;
   width               : auto;
   position            : absolute;
   margin              : 0;
-  left                : 149px;
+  left                : 136px;
+  font-family         : "San Francisco", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(18, 108, 113, 1.0);
+  text-align          : center;
+  line-height         : 24.0px;
+}
+.screen18 .app-white-list {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 110px;
+  height              : auto;
+  width               : 146px;
+  position            : absolute;
+  margin              : 0;
+  left                : 44px;
+  font-family         : "San Francisco", Helvetica, Arial, serif;
+  font-size           : 11.0px;
+  color               : rgba(18, 108, 113, 1.0);
+  text-align          : left;
+  line-height         : 14.65px;
+}
+.screen18 .rectangle {
+  background          : rgba(19, 107, 113, 0.1);
+  top                 : 147px;
+  height              : 44px;
+  width               : 44px;
+  position            : absolute;
+  margin              : 0;
+  left                : 46px;
+  border-radius       : 8px;
+  border-style        : solid;
+  border-width        : 0px;
+  border-color        : rgba(19, 107, 113, 1.0);
+}
+.screen18 .label1 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 160px;
+  height              : auto;
+  width               : 50px;
+  position            : absolute;
+  margin              : 0;
+  left                : 43px;
   font-family         : "San Francisco", Helvetica, Arial, serif;
   font-size           : 20.0px;
   color               : rgba(18, 108, 113, 1.0);
@@ -140,74 +80,6 @@ div {
   margin              : 0;
   left                : 34px;
   opacity             : 0.64;
-}
-.screen18 .oval2 {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 618px;
-  height              : 9px;
-  width               : 10px;
-  position            : absolute;
-  margin              : 0;
-  left                : 190px;
-}
-.screen18 .group {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 618px;
-  height              : 9px;
-  width               : 10px;
-  position            : absolute;
-  margin              : 0;
-  left                : 175px;
-}
-.screen18 .group .oval21 {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 0px;
-  height              : 9px;
-  width               : 10px;
-  position            : relative;
-  margin              : 0;
-  left                : 0px;
-}
-.screen18 .add-button {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 27px;
-  height              : 46px;
-  width               : 29px;
-  position            : absolute;
-  margin              : 0;
-  left                : 321px;
-}
-.screen18 .add-button .add-button1 {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 8px;
-  height              : 30px;
-  width               : 29px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-}
-.screen18 .add-button .add-button1 .oval3 {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 0px;
-  height              : 30px;
-  width               : 29px;
-  position            : relative;
-  margin              : 0;
-  left                : 0px;
-}
-.screen18 .add-button .label1 {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 0px;
-  height              : auto;
-  width               : 8px;
-  position            : absolute;
-  margin              : 0;
-  left                : 3px;
-  font-family         : "Futura-Medium", Helvetica, Arial, serif;
-  font-size           : 36.0px;
-  color               : rgba(231, 244, 246, 1.0);
-  text-align          : center;
-  line-height         : 47.0px;
 }
 /* .anima-animate-appear prefix for appear animations */
 .anima-animate-appear {
