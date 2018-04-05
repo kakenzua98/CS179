@@ -16,269 +16,166 @@ a {
 div {
   -webkit-text-size-adjust: none;
 }
-.screen16 .polygon {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 579px;
-  height              : 37px;
-  width               : 39px;
-  position            : absolute;
-  margin              : 0;
-  left                : 164px;
-}
-.screen16 .polygon1 {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 579px;
-  height              : 37px;
-  width               : 39px;
-  position            : absolute;
-  margin              : 0;
-  left                : 292px;
-}
-.screen16 .white-list {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 631px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 151px;
-  font-family         : "San Francisco", Helvetica, Arial, serif;
-  font-size           : 14.0px;
-  color               : rgba(18, 108, 113, 1.0);
-  text-align          : justify;
-  line-height         : 16.0px;
-}
-.screen16 .cells-button-cell2 {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 477px;
-  height              : 44px;
-  width               : 244px;
-  position            : absolute;
-  margin              : 0;
-  left                : 65px;
-}
-.screen16 .cells-button-cell2 .cell {
-  background          : rgba(232, 245, 246, 1.0);
+.screen16 .rectangle2 {
+  background          : rgba(255, 255, 255, 1.0);
   top                 : 0px;
-  height              : 44px;
-  width               : 244px;
+  height              : 667px;
+  width               : 375px;
   position            : absolute;
   margin              : 0;
   left                : 0px;
+  border-radius       : 8px;
 }
-.screen16 .cells-button-cell2 .label {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 15px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 51px;
-  font-family         : "San Francisco", Helvetica, Arial, serif;
-  font-size           : 14.0px;
-  color               : rgba(19, 107, 113, 1.0);
-  text-align          : center;
-  letter-spacing      : -0.34px;
-  line-height         : 16.0px;
-}
-.screen16 .redeem-rewards {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 626px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 285px;
-  font-family         : "San Francisco", Helvetica, Arial, serif;
-  font-size           : 14.0px;
-  color               : rgba(18, 108, 113, 1.0);
-  text-align          : justify;
-  line-height         : 16.0px;
-}
-.screen16 .white-list1 {
+.screen16 .records-of-my-friend {
   background          : rgba(255, 255, 255, 0.0);
   top                 : 42px;
   height              : auto;
   width               : auto;
   position            : absolute;
   margin              : 0;
-  left                : 136px;
+  left                : 76px;
   font-family         : "San Francisco", Helvetica, Arial, serif;
   font-size           : 20.0px;
   color               : rgba(18, 108, 113, 1.0);
-  text-align          : center;
+  text-align          : justify;
   line-height         : 24.0px;
 }
+.screen16 .group {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 615px;
+  height              : 9px;
+  width               : 10px;
+  position            : absolute;
+  margin              : 0;
+  left                : 190px;
+  -ms-transform       : rotate(180deg); /* IE 9 */
+  -webkit-transform   : rotate(180deg); /* Chrome, Safari, Opera */
+  transform           : rotate(180deg);
+}
+.screen16 .oval2 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 615px;
+  height              : 9px;
+  width               : 10px;
+  position            : absolute;
+  margin              : 0;
+  left                : 175px;
+}
+.screen16 .a0 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 327px;
+  height              : 60px;
+  width               : 60px;
+  position            : absolute;
+  margin              : 0;
+  left                : 93px;
+  opacity             : 0.58;
+}
+.screen16 .a1 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 251px;
+  height              : 60px;
+  width               : 60px;
+  position            : absolute;
+  margin              : 0;
+  left                : 93px;
+  opacity             : 0.58;
+}
+.screen16 .a2 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 175px;
+  height              : 60px;
+  width               : 60px;
+  position            : absolute;
+  margin              : 0;
+  left                : 93px;
+  opacity             : 0.58;
+}
+.screen16 .a6 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 99px;
+  height              : 60px;
+  width               : 60px;
+  position            : absolute;
+  margin              : 0;
+  left                : 93px;
+  opacity             : 0.58;
+}
+.screen16 .a123 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 403px;
+  height              : 60px;
+  width               : 60px;
+  position            : absolute;
+  margin              : 0;
+  left                : 93px;
+  opacity             : 0.58;
+}
+.screen16 .a1121 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 479px;
+  height              : 60px;
+  width               : 60px;
+  position            : absolute;
+  margin              : 0;
+  left                : 93px;
+}
+.screen16 .a11 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 555px;
+  height              : 60px;
+  width               : 60px;
+  position            : absolute;
+  margin              : 0;
+  left                : 93px;
+  opacity             : 0.58;
+}
+.screen16 .friend-elisa93-tim {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 74px;
+  height              : auto;
+  width               : 161px;
+  position            : absolute;
+  margin              : 0;
+  left                : 181px;
+  font-family         : "San Francisco", Helvetica, Arial, serif;
+  font-size           : 11.0px;
+  color               : rgba(18, 108, 113, 1.0);
+  text-align          : left;
+  line-height         : 15.0px;
+}
+.screen16 .rnaking123456 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 74px;
+  height              : auto;
+  width               : 62px;
+  position            : absolute;
+  margin              : 0;
+  left                : 49px;
+  font-family         : "San Francisco", Helvetica, Arial, serif;
+  font-size           : 11.0px;
+  color               : rgba(18, 108, 113, 1.0);
+  text-align          : left;
+  line-height         : 15.0px;
+}
 .screen16 .rectangle {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 141px;
-  height              : 188px;
-  width               : 287px;
+  background          : rgba(215, 215, 215, 0.2);
+  top                 : 473px;
+  height              : 66px;
+  width               : 290px;
   position            : absolute;
   margin              : 0;
-  left                : 44px;
-  border-style        : solid;
-  border-width        : 0px;
-  border-color        : rgba(49, 164, 171, 1.0);
+  left                : 40px;
 }
-.screen16 .rectangle1 {
+.screen16 .back {
   background          : rgba(255, 255, 255, 0.0);
-  top                 : 178px;
-  height              : 38px;
-  width               : 287px;
+  top                 : 36px;
+  height              : 21px;
+  width               : 11px;
   position            : absolute;
   margin              : 0;
-  left                : 44px;
-  border-style        : solid;
-  border-width        : 0px;
-  border-color        : rgba(49, 164, 171, 1.0);
-}
-.screen16 .rectangle2 {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 253px;
-  height              : 38px;
-  width               : 287px;
-  position            : absolute;
-  margin              : 0;
-  left                : 44px;
-  border-style        : solid;
-  border-width        : 0px;
-  border-color        : rgba(49, 164, 171, 1.0);
-}
-.screen16 .mother {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 151px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 58px;
-  font-family         : "San Francisco", Helvetica, Arial, serif;
-  font-size           : 11.0px;
-  color               : rgba(19, 107, 113, 0.87);
-  text-align          : justify;
-  line-height         : 20.0px;
-}
-.screen16 .abbey-christensen {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 190px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 58px;
-  font-family         : "San Francisco", Helvetica, Arial, serif;
-  font-size           : 11.0px;
-  color               : rgba(19, 107, 113, 0.87);
-  text-align          : justify;
-  line-height         : 20.0px;
-}
-.screen16 .ali-connors {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 268px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 58px;
-  font-family         : "San Francisco", Helvetica, Arial, serif;
-  font-size           : 11.0px;
-  color               : rgba(19, 107, 113, 0.87);
-  text-align          : justify;
-  line-height         : 20.0px;
-}
-.screen16 .ali-connors1 {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 228px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 58px;
-  font-family         : "San Francisco", Helvetica, Arial, serif;
-  font-size           : 11.0px;
-  color               : rgba(19, 107, 113, 0.87);
-  text-align          : justify;
-  line-height         : 20.0px;
-}
-.screen16 .add-contact-number {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 350px;
-  height              : auto;
-  width               : 146px;
-  position            : absolute;
-  margin              : 0;
-  left                : 44px;
-  font-family         : "San Francisco", Helvetica, Arial, serif;
-  font-size           : 11.0px;
-  color               : rgba(18, 108, 113, 1.0);
-  text-align          : left;
-  line-height         : 14.65px;
-}
-.screen16 .abbey-christensen1 {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 303px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 57px;
-  font-family         : "San Francisco", Helvetica, Arial, serif;
-  font-size           : 11.0px;
-  color               : rgba(19, 107, 113, 0.87);
-  text-align          : justify;
-  line-height         : 20.0px;
-}
-.screen16 .contact-white-list {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 110px;
-  height              : auto;
-  width               : 146px;
-  position            : absolute;
-  margin              : 0;
-  left                : 44px;
-  font-family         : "San Francisco", Helvetica, Arial, serif;
-  font-size           : 11.0px;
-  color               : rgba(18, 108, 113, 1.0);
-  text-align          : left;
-  line-height         : 14.65px;
-}
-.screen16 .polygon2 {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 579px;
-  height              : 37px;
-  width               : 39px;
-  position            : absolute;
-  margin              : 0;
-  left                : 37px;
-}
-.screen16 .friends {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 633px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 33px;
-  font-family         : "San Francisco", Helvetica, Arial, serif;
-  font-size           : 14.0px;
-  color               : rgba(18, 108, 113, 1.0);
-  text-align          : justify;
-  line-height         : 16.0px;
-}
-.screen16 .ali-connors2 {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 347px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 312px;
-  font-family         : "San Francisco", Helvetica, Arial, serif;
-  font-size           : 18.0px;
-  color               : rgba(19, 107, 113, 0.87);
-  text-align          : justify;
-  line-height         : 20.0px;
+  left                : 34px;
+  opacity             : 0.64;
 }
 /* .anima-animate-appear prefix for appear animations */
 .anima-animate-appear {

@@ -16,188 +16,251 @@ a {
 div {
   -webkit-text-size-adjust: none;
 }
-.screen20 .avatar {
+.screen20 .polygon {
   background          : rgba(255, 255, 255, 0.0);
-  top                 : 80px;
-  height              : 50px;
-  width               : 50px;
+  top                 : 579px;
+  height              : 37px;
+  width               : 39px;
   position            : absolute;
   margin              : 0;
-  left                : 57px;
+  left                : 37px;
 }
-.screen20 .avatar1 {
+.screen20 .polygon1 {
   background          : rgba(255, 255, 255, 0.0);
-  top                 : 152px;
-  height              : 51px;
-  width               : 50px;
+  top                 : 579px;
+  height              : 37px;
+  width               : 39px;
   position            : absolute;
   margin              : 0;
-  left                : 57px;
+  left                : 164px;
 }
-.screen20 .avatar2 {
+.screen20 .polygon2 {
   background          : rgba(255, 255, 255, 0.0);
-  top                 : 225px;
-  height              : 50px;
-  width               : 50px;
+  top                 : 579px;
+  height              : 37px;
+  width               : 39px;
   position            : absolute;
   margin              : 0;
-  left                : 57px;
+  left                : 292px;
 }
-.screen20 .avatar3 {
+.screen20 .friends {
   background          : rgba(255, 255, 255, 0.0);
-  top                 : 297px;
-  height              : 50px;
-  width               : 50px;
-  position            : absolute;
-  margin              : 0;
-  left                : 57px;
-}
-.screen20 .avatar4 {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 369px;
-  height              : 50px;
-  width               : 50px;
-  position            : absolute;
-  margin              : 0;
-  left                : 57px;
-}
-.screen20 .avatar5 {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 441px;
-  height              : 50px;
-  width               : 50px;
-  position            : absolute;
-  margin              : 0;
-  left                : 57px;
-}
-.screen20 .avatar6 {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 511px;
-  height              : 50px;
-  width               : 50px;
-  position            : absolute;
-  margin              : 0;
-  left                : 57px;
-}
-.screen20 .elisa-jack-tom-emma {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 95px;
+  top                 : 633px;
   height              : auto;
-  width               : 121px;
+  width               : auto;
   position            : absolute;
   margin              : 0;
-  left                : 129px;
+  left                : 33px;
+  font-family         : "San Francisco", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(18, 108, 113, 1.0);
+  text-align          : justify;
+  line-height         : 16.0px;
+}
+.screen20 .white-list {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 633px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 151px;
+  font-family         : "San Francisco", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(18, 108, 113, 1.0);
+  text-align          : justify;
+  line-height         : 16.0px;
+}
+.screen20 .redeem-rewards {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 624px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 285px;
+  font-family         : "San Francisco", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(18, 108, 113, 1.0);
+  text-align          : justify;
+  line-height         : 16.0px;
+}
+.screen20 .a200-points400-point {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 182px;
+  height              : auto;
+  width               : 103px;
+  position            : absolute;
+  margin              : 0;
+  left                : 167px;
   font-family         : "San Francisco", Helvetica, Arial, serif;
   font-size           : 11.0px;
   color               : rgba(18, 108, 113, 1.0);
   text-align          : left;
-  line-height         : 14.65px;
+  line-height         : 16.65px;
 }
-.screen20 .a3-meals-together3-m {
+.screen20 .cells-button-cell2 {
   background          : rgba(255, 255, 255, 0.0);
-  top                 : 94px;
-  height              : auto;
-  width               : 121px;
+  top                 : 477px;
+  height              : 44px;
+  width               : 244px;
   position            : absolute;
   margin              : 0;
-  left                : 172px;
+  left                : 65px;
+}
+.screen20 .cells-button-cell2 .cell {
+  background          : rgba(232, 245, 246, 1.0);
+  top                 : 0px;
+  height              : 44px;
+  width               : 244px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.screen20 .cells-button-cell2 .label {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 15px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 42px;
+  font-family         : "San Francisco", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(19, 107, 113, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.34px;
+  line-height         : 16.0px;
+}
+.screen20 .a2-off5-off2-off {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 182px;
+  height              : auto;
+  width               : 103px;
+  position            : absolute;
+  margin              : 0;
+  left                : 202px;
   font-family         : "San Francisco", Helvetica, Arial, serif;
   font-size           : 11.0px;
   color               : rgba(18, 108, 113, 1.0);
   text-align          : right;
-  line-height         : 14.65px;
+  line-height         : 16.65px;
 }
-.screen20 .friends {
+.screen20 .redeem-rewards1 {
   background          : rgba(255, 255, 255, 0.0);
   top                 : 42px;
   height              : auto;
   width               : auto;
   position            : absolute;
   margin              : 0;
-  left                : 149px;
+  left                : 99px;
   font-family         : "San Francisco", Helvetica, Arial, serif;
   font-size           : 20.0px;
   color               : rgba(18, 108, 113, 1.0);
   text-align          : center;
   line-height         : 24.0px;
 }
+.screen20 .a20180326104620 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 252px;
+  height              : 64px;
+  width               : 66px;
+  position            : absolute;
+  margin              : 0;
+  left                : 62px;
+}
+.screen20 .a20180326104743 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 171px;
+  height              : 57px;
+  width               : 58px;
+  position            : absolute;
+  margin              : 0;
+  left                : 65px;
+}
+.screen20 .a20180326104916 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 349px;
+  height              : 35px;
+  width               : 79px;
+  position            : absolute;
+  margin              : 0;
+  left                : 57px;
+}
+.screen20 .you-currently-have4 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 109px;
+  height              : auto;
+  width               : 301px;
+  position            : absolute;
+  margin              : 0;
+  left                : 37px;
+  font-family         : "San Francisco", Helvetica, Arial, serif;
+  font-size           : 11.0px;
+  color               : rgba(18, 108, 113, 1.0);
+  text-align          : center;
+  line-height         : 18.0px;
+}
 .screen20 .back {
   background          : rgba(255, 255, 255, 0.0);
   top                 : 43px;
-  height              : 14px;
-  width               : 8px;
+  height              : 13px;
+  width               : 7px;
   position            : absolute;
   margin              : 0;
   left                : 34px;
   opacity             : 0.64;
 }
-.screen20 .oval2 {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 618px;
-  height              : 9px;
-  width               : 10px;
-  position            : absolute;
-  margin              : 0;
-  left                : 190px;
-}
-.screen20 .group {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 618px;
-  height              : 9px;
-  width               : 10px;
-  position            : absolute;
-  margin              : 0;
-  left                : 175px;
-}
-.screen20 .group .oval21 {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 0px;
-  height              : 9px;
-  width               : 10px;
-  position            : relative;
-  margin              : 0;
-  left                : 0px;
-}
-.screen20 .add-button {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 27px;
-  height              : 46px;
-  width               : 29px;
-  position            : absolute;
-  margin              : 0;
-  left                : 321px;
-}
-.screen20 .add-button .add-button1 {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 8px;
-  height              : 30px;
-  width               : 29px;
+.screen20 .modal-overlay {
+  background          : rgba(0, 0, 0, 0.5);
+  top                 : 3px;
+  height              : 667px;
+  width               : 375px;
   position            : absolute;
   margin              : 0;
   left                : 0px;
 }
-.screen20 .add-button .add-button1 .oval3 {
+.screen20 .cells-button-cell21 {
   background          : rgba(255, 255, 255, 0.0);
+  top                 : 433px;
+  height              : 44px;
+  width               : 244px;
+  position            : absolute;
+  margin              : 0;
+  left                : 65px;
+}
+.screen20 .cells-button-cell21 .cell1 {
+  background          : rgba(232, 245, 246, 1.0);
   top                 : 0px;
-  height              : 30px;
-  width               : 29px;
-  position            : relative;
+  height              : 44px;
+  width               : 244px;
+  position            : absolute;
   margin              : 0;
   left                : 0px;
 }
-.screen20 .add-button .label1 {
+.screen20 .cells-button-cell21 .label1 {
   background          : rgba(255, 255, 255, 0.0);
-  top                 : 0px;
+  top                 : 15px;
   height              : auto;
-  width               : 8px;
+  width               : auto;
   position            : absolute;
   margin              : 0;
-  left                : 3px;
-  font-family         : "Futura-Medium", Helvetica, Arial, serif;
-  font-size           : 36.0px;
-  color               : rgba(231, 244, 246, 1.0);
+  left                : 77px;
+  font-family         : "San Francisco", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(19, 107, 113, 1.0);
   text-align          : center;
-  line-height         : 47.0px;
+  letter-spacing      : -0.34px;
+  line-height         : 16.0px;
+}
+.screen20 .a20180327121944 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 241px;
+  height              : 143px;
+  width               : 339px;
+  position            : absolute;
+  margin              : 0;
+  left                : 18px;
 }
 /* .anima-animate-appear prefix for appear animations */
 .anima-animate-appear {

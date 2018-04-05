@@ -16,251 +16,124 @@ a {
 div {
   -webkit-text-size-adjust: none;
 }
-.screen11 .polygon {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 579px;
-  height              : 37px;
-  width               : 39px;
-  position            : absolute;
-  margin              : 0;
-  left                : 37px;
-}
-.screen11 .polygon1 {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 579px;
-  height              : 37px;
-  width               : 39px;
-  position            : absolute;
-  margin              : 0;
-  left                : 164px;
-}
-.screen11 .polygon2 {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 579px;
-  height              : 37px;
-  width               : 39px;
-  position            : absolute;
-  margin              : 0;
-  left                : 292px;
-}
-.screen11 .friends {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 633px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 33px;
-  font-family         : "San Francisco", Helvetica, Arial, serif;
-  font-size           : 14.0px;
-  color               : rgba(18, 108, 113, 1.0);
-  text-align          : justify;
-  line-height         : 16.0px;
-}
 .screen11 .white-list {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 633px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 151px;
-  font-family         : "San Francisco", Helvetica, Arial, serif;
-  font-size           : 14.0px;
-  color               : rgba(18, 108, 113, 1.0);
-  text-align          : justify;
-  line-height         : 16.0px;
-}
-.screen11 .redeem-rewards {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 624px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 285px;
-  font-family         : "San Francisco", Helvetica, Arial, serif;
-  font-size           : 14.0px;
-  color               : rgba(18, 108, 113, 1.0);
-  text-align          : justify;
-  line-height         : 16.0px;
-}
-.screen11 .a200-points400-point {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 182px;
-  height              : auto;
-  width               : 103px;
-  position            : absolute;
-  margin              : 0;
-  left                : 167px;
-  font-family         : "San Francisco", Helvetica, Arial, serif;
-  font-size           : 11.0px;
-  color               : rgba(18, 108, 113, 1.0);
-  text-align          : left;
-  line-height         : 16.65px;
-}
-.screen11 .cells-button-cell2 {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 477px;
-  height              : 44px;
-  width               : 244px;
-  position            : absolute;
-  margin              : 0;
-  left                : 65px;
-}
-.screen11 .cells-button-cell2 .cell {
-  background          : rgba(232, 245, 246, 1.0);
-  top                 : 0px;
-  height              : 44px;
-  width               : 244px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-}
-.screen11 .cells-button-cell2 .label {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 15px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 42px;
-  font-family         : "San Francisco", Helvetica, Arial, serif;
-  font-size           : 14.0px;
-  color               : rgba(19, 107, 113, 1.0);
-  text-align          : center;
-  letter-spacing      : -0.34px;
-  line-height         : 16.0px;
-}
-.screen11 .a2-off5-off2-off {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 182px;
-  height              : auto;
-  width               : 103px;
-  position            : absolute;
-  margin              : 0;
-  left                : 202px;
-  font-family         : "San Francisco", Helvetica, Arial, serif;
-  font-size           : 11.0px;
-  color               : rgba(18, 108, 113, 1.0);
-  text-align          : right;
-  line-height         : 16.65px;
-}
-.screen11 .redeem-rewards1 {
   background          : rgba(255, 255, 255, 0.0);
   top                 : 42px;
   height              : auto;
   width               : auto;
   position            : absolute;
   margin              : 0;
-  left                : 99px;
+  left                : 136px;
   font-family         : "San Francisco", Helvetica, Arial, serif;
   font-size           : 20.0px;
   color               : rgba(18, 108, 113, 1.0);
   text-align          : center;
   line-height         : 24.0px;
 }
-.screen11 .a20180326104620 {
+.screen11 .add-an-app-to-white {
   background          : rgba(255, 255, 255, 0.0);
-  top                 : 252px;
-  height              : 64px;
-  width               : 66px;
-  position            : absolute;
-  margin              : 0;
-  left                : 62px;
-}
-.screen11 .a20180326104743 {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 171px;
-  height              : 57px;
-  width               : 58px;
-  position            : absolute;
-  margin              : 0;
-  left                : 65px;
-}
-.screen11 .a20180326104916 {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 349px;
-  height              : 35px;
-  width               : 79px;
-  position            : absolute;
-  margin              : 0;
-  left                : 57px;
-}
-.screen11 .you-currently-have4 {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 109px;
+  top                 : 208px;
   height              : auto;
-  width               : 301px;
+  width               : 146px;
   position            : absolute;
   margin              : 0;
-  left                : 37px;
+  left                : 44px;
   font-family         : "San Francisco", Helvetica, Arial, serif;
   font-size           : 11.0px;
   color               : rgba(18, 108, 113, 1.0);
+  text-align          : left;
+  line-height         : 14.65px;
+}
+.screen11 .app-white-list {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 110px;
+  height              : auto;
+  width               : 146px;
+  position            : absolute;
+  margin              : 0;
+  left                : 44px;
+  font-family         : "San Francisco", Helvetica, Arial, serif;
+  font-size           : 11.0px;
+  color               : rgba(18, 108, 113, 1.0);
+  text-align          : left;
+  line-height         : 14.65px;
+}
+.screen11 .rectangle {
+  background          : rgba(19, 107, 113, 0.1);
+  top                 : 147px;
+  height              : 44px;
+  width               : 44px;
+  position            : absolute;
+  margin              : 0;
+  left                : 46px;
+  border-radius       : 8px;
+  border-style        : solid;
+  border-width        : 0px;
+  border-color        : rgba(19, 107, 113, 1.0);
+}
+.screen11 .label1 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 160px;
+  height              : auto;
+  width               : 50px;
+  position            : absolute;
+  margin              : 0;
+  left                : 43px;
+  font-family         : "San Francisco", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(18, 108, 113, 1.0);
   text-align          : center;
-  line-height         : 18.0px;
+  line-height         : 24.0px;
+}
+.screen11 .bitmap {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 238px;
+  height              : 117px;
+  width               : 300px;
+  position            : absolute;
+  margin              : 0;
+  left                : 38px;
+}
+.screen11 .bitmap1 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 297px;
+  height              : 55px;
+  width               : 54px;
+  position            : absolute;
+  margin              : 0;
+  left                : 43px;
+}
+.screen11 .rectangle1 {
+  background          : rgba(19, 107, 113, 0.1);
+  top                 : 296px;
+  height              : 59px;
+  width               : 59px;
+  position            : absolute;
+  margin              : 0;
+  left                : 38px;
+  border-radius       : 8px;
+  border-style        : solid;
+  border-width        : 0px;
+  border-color        : rgba(19, 107, 113, 1.0);
+}
+.screen11 .a0 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 338px;
+  height              : 15px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 75px;
 }
 .screen11 .back {
   background          : rgba(255, 255, 255, 0.0);
   top                 : 43px;
-  height              : 13px;
-  width               : 7px;
+  height              : 14px;
+  width               : 8px;
   position            : absolute;
   margin              : 0;
   left                : 34px;
   opacity             : 0.64;
-}
-.screen11 .modal-overlay {
-  background          : rgba(0, 0, 0, 0.5);
-  top                 : 20px;
-  height              : 667px;
-  width               : 375px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-}
-.screen11 .cells-button-cell21 {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 433px;
-  height              : 44px;
-  width               : 244px;
-  position            : absolute;
-  margin              : 0;
-  left                : 65px;
-}
-.screen11 .cells-button-cell21 .cell1 {
-  background          : rgba(232, 245, 246, 1.0);
-  top                 : 0px;
-  height              : 44px;
-  width               : 244px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-}
-.screen11 .cells-button-cell21 .label1 {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 15px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 77px;
-  font-family         : "San Francisco", Helvetica, Arial, serif;
-  font-size           : 14.0px;
-  color               : rgba(19, 107, 113, 1.0);
-  text-align          : center;
-  letter-spacing      : -0.34px;
-  line-height         : 16.0px;
-}
-.screen11 .a20180327121944 {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 241px;
-  height              : 143px;
-  width               : 339px;
-  position            : absolute;
-  margin              : 0;
-  left                : 18px;
 }
 /* .anima-animate-appear prefix for appear animations */
 .anima-animate-appear {

@@ -16,152 +16,278 @@ a {
 div {
   -webkit-text-size-adjust: none;
 }
-.screen25 .text-field {
+.screen25 .profile {
   background          : rgba(255, 255, 255, 0.0);
-  top                 : 158px;
-  height              : 48px;
-  width               : 329px;
+  top                 : 74px;
+  height              : 60px;
+  width               : 63px;
   position            : absolute;
   margin              : 0;
-  left                : 23px;
+  left                : 155px;
 }
-.screen25 .text-field .bounds {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 0px;
-  height              : 48px;
-  width               : 328px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-}
-.screen25 .text-field .name {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 13px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  font-family         : "San Francisco", Helvetica, Arial, serif;
-  font-size           : 16.0px;
-  color               : rgba(0, 0, 0, 0.38);
-  text-align          : left;
-  line-height         : 24.0px;
-}
-.screen25 .text-field .line {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 39px;
-  height              : 2px;
-  width               : 329px;
-  position            : absolute;
-  margin              : 0;
-  left                : -1px;
-}
-.screen25 .text-field .insertion-mark {
-  background          : rgba(0, 150, 136, 1.0);
-  top                 : 12px;
-  height              : 20px;
-  width               : 1px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-}
-.screen25 .text-field1 {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 257px;
-  height              : 48px;
-  width               : 329px;
-  position            : absolute;
-  margin              : 0;
-  left                : 23px;
-}
-.screen25 .text-field1 .bounds1 {
+.screen25 .profile .shape {
   background          : rgba(255, 255, 255, 0.0);
   top                 : 0px;
-  height              : 48px;
-  width               : 328px;
+  height              : 35px;
+  width               : 36px;
+  position            : absolute;
+  margin              : 0;
+  left                : 14px;
+}
+.screen25 .profile .shape1 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 34px;
+  height              : 26px;
+  width               : 63px;
   position            : absolute;
   margin              : 0;
   left                : 0px;
 }
-.screen25 .text-field1 .age {
+.screen25 .bella {
   background          : rgba(255, 255, 255, 0.0);
-  top                 : 13px;
+  top                 : 152px;
   height              : auto;
   width               : auto;
   position            : absolute;
   margin              : 0;
-  left                : 0px;
-  font-family         : "San Francisco", Helvetica, Arial, serif;
-  font-size           : 16.0px;
-  color               : rgba(0, 0, 0, 0.38);
-  text-align          : left;
-  line-height         : 24.0px;
-}
-.screen25 .text-field1 .line1 {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 39px;
-  height              : 2px;
-  width               : 329px;
-  position            : absolute;
-  margin              : 0;
-  left                : -1px;
-}
-.screen25 .text-field1 .insertion-mark1 {
-  background          : rgba(0, 150, 136, 1.0);
-  top                 : 12px;
-  height              : 20px;
-  width               : 1px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-}
-.screen25 .create-account {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 80px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 110px;
+  left                : 162px;
   font-family         : "San Francisco", Helvetica, Arial, serif;
   font-size           : 20.0px;
   color               : rgba(18, 108, 113, 1.0);
   text-align          : justify;
   line-height         : 24.0px;
 }
-.screen25 .cells-button-cell2 {
+.screen25 .menu-symbol {
   background          : rgba(255, 255, 255, 0.0);
-  top                 : 482px;
-  height              : 44px;
-  width               : 231px;
+  top                 : 579px;
+  height              : 69px;
+  width               : 52px;
   position            : absolute;
   margin              : 0;
-  left                : 72px;
+  left                : 33px;
 }
-.screen25 .cells-button-cell2 .cell {
+.screen25 .menu-symbol .polygon {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 37px;
+  width               : 39px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+}
+.screen25 .menu-symbol .friends {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 54px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "San Francisco", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(18, 108, 113, 1.0);
+  text-align          : justify;
+  line-height         : 16.0px;
+}
+.screen25 .cells-button-cell {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 372px;
+  height              : 44px;
+  width               : 244px;
+  position            : absolute;
+  margin              : 0;
+  left                : 65px;
+}
+.screen25 .cells-button-cell .cell {
   background          : rgba(232, 245, 246, 1.0);
   top                 : 0px;
   height              : 44px;
-  width               : 231px;
+  width               : 244px;
   position            : absolute;
   margin              : 0;
   left                : 0px;
 }
-.screen25 .cells-button-cell2 .label {
+.screen25 .cells-button-cell .label {
   background          : rgba(255, 255, 255, 0.0);
   top                 : 15px;
   height              : auto;
   width               : auto;
   position            : absolute;
   margin              : 0;
-  left                : 90px;
-  font-family         : "San Francisco", Helvetica, Arial, serif;
+  left                : 68px;
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
   font-size           : 14.0px;
   color               : rgba(19, 107, 113, 1.0);
   text-align          : center;
   letter-spacing      : -0.34px;
+  line-height         : 19.0px;
+}
+.screen25 .cells-button-cell2 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 461px;
+  height              : 44px;
+  width               : 244px;
+  position            : absolute;
+  margin              : 0;
+  left                : 65px;
+}
+.screen25 .cells-button-cell2 .cell1 {
+  background          : rgba(232, 245, 246, 1.0);
+  top                 : 0px;
+  height              : 44px;
+  width               : 244px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.screen25 .cells-button-cell2 .label1 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 15px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 56px;
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(19, 107, 113, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.34px;
+  line-height         : 19.0px;
+}
+.screen25 .total-meal-game-time {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 193px;
+  height              : auto;
+  width               : 169px;
+  position            : absolute;
+  margin              : 0;
+  left                : 49px;
+  font-family         : "San Francisco", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(18, 108, 113, 1.0);
+  text-align          : left;
+  line-height         : 29.0px;
+}
+.screen25 .a1019-minutes15603 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 193px;
+  height              : auto;
+  width               : 113px;
+  position            : absolute;
+  margin              : 0;
+  left                : 203px;
+  font-family         : "San Francisco", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(18, 108, 113, 1.0);
+  text-align          : right;
+  line-height         : 29.0px;
+}
+.screen25 .menu-symbol1 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 579px;
+  height              : 70px;
+  width               : 47px;
+  position            : absolute;
+  margin              : 0;
+  left                : 125px;
+}
+.screen25 .menu-symbol1 .polygon1 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 37px;
+  width               : 39px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+}
+.screen25 .menu-symbol1 .friends1 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 54px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "San Francisco", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(18, 108, 113, 1.0);
+  text-align          : justify;
   line-height         : 16.0px;
+}
+.screen25 .menu-symbol2 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 579px;
+  height              : 70px;
+  width               : 53px;
+  position            : absolute;
+  margin              : 0;
+  left                : 217px;
+}
+.screen25 .menu-symbol2 .polygon2 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 37px;
+  width               : 39px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+}
+.screen25 .menu-symbol2 .friends2 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 54px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "San Francisco", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(18, 108, 113, 1.0);
+  text-align          : justify;
+  line-height         : 16.0px;
+}
+.screen25 .menu-symbol3 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 579px;
+  height              : 70px;
+  width               : 65px;
+  position            : absolute;
+  margin              : 0;
+  left                : 309px;
+}
+.screen25 .menu-symbol3 .polygon3 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 37px;
+  width               : 39px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+}
+.screen25 .menu-symbol3 .friends3 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 54px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "San Francisco", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(18, 108, 113, 1.0);
+  text-align          : justify;
+  line-height         : 16.0px;
+}
+.screen25 .screen-shot20180405-at13752-pm {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 18px;
+  height              : 34px;
+  width               : 34px;
+  position            : absolute;
+  margin              : 0;
+  left                : 327px;
+  opacity             : 0.3;
 }
 /* .anima-animate-appear prefix for appear animations */
 .anima-animate-appear {

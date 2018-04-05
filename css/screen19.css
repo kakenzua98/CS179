@@ -23,7 +23,7 @@ div {
   width               : 39px;
   position            : absolute;
   margin              : 0;
-  left                : 164px;
+  left                : 37px;
 }
 .screen19 .polygon1 {
   background          : rgba(255, 255, 255, 0.0);
@@ -32,183 +32,7 @@ div {
   width               : 39px;
   position            : absolute;
   margin              : 0;
-  left                : 292px;
-}
-.screen19 .white-list {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 631px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 151px;
-  font-family         : "San Francisco", Helvetica, Arial, serif;
-  font-size           : 14.0px;
-  color               : rgba(18, 108, 113, 1.0);
-  text-align          : justify;
-  line-height         : 16.0px;
-}
-.screen19 .redeem-rewards {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 626px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 285px;
-  font-family         : "San Francisco", Helvetica, Arial, serif;
-  font-size           : 14.0px;
-  color               : rgba(18, 108, 113, 1.0);
-  text-align          : justify;
-  line-height         : 16.0px;
-}
-.screen19 .white-list1 {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 42px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 136px;
-  font-family         : "San Francisco", Helvetica, Arial, serif;
-  font-size           : 20.0px;
-  color               : rgba(18, 108, 113, 1.0);
-  text-align          : center;
-  line-height         : 24.0px;
-}
-.screen19 .rectangle {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 141px;
-  height              : 188px;
-  width               : 287px;
-  position            : absolute;
-  margin              : 0;
-  left                : 44px;
-  border-style        : solid;
-  border-width        : 0px;
-  border-color        : rgba(49, 164, 171, 1.0);
-}
-.screen19 .rectangle1 {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 178px;
-  height              : 38px;
-  width               : 287px;
-  position            : absolute;
-  margin              : 0;
-  left                : 44px;
-  border-style        : solid;
-  border-width        : 0px;
-  border-color        : rgba(49, 164, 171, 1.0);
-}
-.screen19 .rectangle2 {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 253px;
-  height              : 38px;
-  width               : 287px;
-  position            : absolute;
-  margin              : 0;
-  left                : 44px;
-  border-style        : solid;
-  border-width        : 0px;
-  border-color        : rgba(49, 164, 171, 1.0);
-}
-.screen19 .mother {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 151px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 58px;
-  font-family         : "San Francisco", Helvetica, Arial, serif;
-  font-size           : 11.0px;
-  color               : rgba(19, 107, 113, 0.87);
-  text-align          : justify;
-  line-height         : 20.0px;
-}
-.screen19 .abbey-christensen {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 190px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 58px;
-  font-family         : "San Francisco", Helvetica, Arial, serif;
-  font-size           : 11.0px;
-  color               : rgba(19, 107, 113, 0.87);
-  text-align          : justify;
-  line-height         : 20.0px;
-}
-.screen19 .ali-connors {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 228px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 58px;
-  font-family         : "San Francisco", Helvetica, Arial, serif;
-  font-size           : 11.0px;
-  color               : rgba(19, 107, 113, 0.87);
-  text-align          : justify;
-  line-height         : 20.0px;
-}
-.screen19 .add-contact-number {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 350px;
-  height              : auto;
-  width               : 146px;
-  position            : absolute;
-  margin              : 0;
-  left                : 44px;
-  font-family         : "San Francisco", Helvetica, Arial, serif;
-  font-size           : 11.0px;
-  color               : rgba(18, 108, 113, 1.0);
-  text-align          : left;
-  line-height         : 14.65px;
-}
-.screen19 .ali-connors1 {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 347px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 312px;
-  font-family         : "San Francisco", Helvetica, Arial, serif;
-  font-size           : 18.0px;
-  color               : rgba(19, 107, 113, 0.87);
-  text-align          : justify;
-  line-height         : 20.0px;
-}
-.screen19 .ali-connors2 {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 305px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 58px;
-  font-family         : "San Francisco", Helvetica, Arial, serif;
-  font-size           : 11.0px;
-  color               : rgba(19, 107, 113, 0.87);
-  text-align          : justify;
-  line-height         : 20.0px;
-}
-.screen19 .contact-white-list {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 110px;
-  height              : auto;
-  width               : 146px;
-  position            : absolute;
-  margin              : 0;
-  left                : 44px;
-  font-family         : "San Francisco", Helvetica, Arial, serif;
-  font-size           : 11.0px;
-  color               : rgba(18, 108, 113, 1.0);
-  text-align          : left;
-  line-height         : 14.65px;
+  left                : 164px;
 }
 .screen19 .polygon2 {
   background          : rgba(255, 255, 255, 0.0);
@@ -217,7 +41,7 @@ div {
   width               : 39px;
   position            : absolute;
   margin              : 0;
-  left                : 37px;
+  left                : 292px;
 }
 .screen19 .friends {
   background          : rgba(255, 255, 255, 0.0);
@@ -233,47 +57,126 @@ div {
   text-align          : justify;
   line-height         : 16.0px;
 }
-.screen19 .ali-connors3 {
+.screen19 .white-list {
   background          : rgba(255, 255, 255, 0.0);
-  top                 : 268px;
+  top                 : 633px;
   height              : auto;
   width               : auto;
   position            : absolute;
   margin              : 0;
-  left                : 58px;
+  left                : 151px;
+  font-family         : "San Francisco", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(18, 108, 113, 1.0);
+  text-align          : justify;
+  line-height         : 16.0px;
+}
+.screen19 .redeem-rewards {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 624px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 285px;
+  font-family         : "San Francisco", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(18, 108, 113, 1.0);
+  text-align          : justify;
+  line-height         : 16.0px;
+}
+.screen19 .a200-points400-point {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 182px;
+  height              : auto;
+  width               : 103px;
+  position            : absolute;
+  margin              : 0;
+  left                : 167px;
   font-family         : "San Francisco", Helvetica, Arial, serif;
   font-size           : 11.0px;
-  color               : rgba(19, 107, 113, 0.87);
-  text-align          : justify;
-  line-height         : 20.0px;
+  color               : rgba(18, 108, 113, 1.0);
+  text-align          : left;
+  line-height         : 16.65px;
+}
+.screen19 .a2-off5-off2-off {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 182px;
+  height              : auto;
+  width               : 103px;
+  position            : absolute;
+  margin              : 0;
+  left                : 202px;
+  font-family         : "San Francisco", Helvetica, Arial, serif;
+  font-size           : 11.0px;
+  color               : rgba(18, 108, 113, 1.0);
+  text-align          : right;
+  line-height         : 16.65px;
+}
+.screen19 .redeem-rewards1 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 42px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 99px;
+  font-family         : "San Francisco", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(18, 108, 113, 1.0);
+  text-align          : center;
+  line-height         : 24.0px;
+}
+.screen19 .a20180326104620 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 252px;
+  height              : 64px;
+  width               : 66px;
+  position            : absolute;
+  margin              : 0;
+  left                : 62px;
+}
+.screen19 .a20180326104743 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 171px;
+  height              : 57px;
+  width               : 58px;
+  position            : absolute;
+  margin              : 0;
+  left                : 65px;
+}
+.screen19 .a20180326104916 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 349px;
+  height              : 35px;
+  width               : 79px;
+  position            : absolute;
+  margin              : 0;
+  left                : 57px;
+}
+.screen19 .you-currently-have4 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 109px;
+  height              : auto;
+  width               : 301px;
+  position            : absolute;
+  margin              : 0;
+  left                : 37px;
+  font-family         : "San Francisco", Helvetica, Arial, serif;
+  font-size           : 11.0px;
+  color               : rgba(18, 108, 113, 1.0);
+  text-align          : center;
+  line-height         : 18.0px;
 }
 .screen19 .back {
   background          : rgba(255, 255, 255, 0.0);
-  top                 : 43px;
-  height              : 14px;
-  width               : 8px;
+  top                 : 33px;
+  height              : 23px;
+  width               : 12px;
   position            : absolute;
   margin              : 0;
   left                : 34px;
   opacity             : 0.64;
-}
-.screen19 .notification {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 371px;
-  height              : 113px;
-  width               : 258px;
-  position            : absolute;
-  margin              : 0;
-  left                : 76px;
-}
-.screen19 .select-emergency-cal {
-  background          : rgba(255, 255, 255, 0.0);
-  top                 : 402px;
-  height              : 73px;
-  width               : 213px;
-  position            : absolute;
-  margin              : 0;
-  left                : 99px;
 }
 /* .anima-animate-appear prefix for appear animations */
 .anima-animate-appear {
